@@ -1,0 +1,31 @@
+#equation {
+    height: 50px;
+    width: 110%;
+    border-radius: 25px;
+}
+
+#result {
+    height: 68px;
+    width: 106%;
+    background-color: #ecf0f3;
+    border: none;
+    border-radius: 25px;
+    color: rgb(26, 25, 25);
+    font-size: 40px;
+    padding: 20px;
+}
+
+.button {
+    border: none;
+    border-radius: 30px;
+    width: 50px;
+    height: 50px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#description {
+    font-family: Trebuchet MS;
+    font-size: x-large;
+    margin-top: 10px;
+}
